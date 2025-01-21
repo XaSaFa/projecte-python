@@ -1,4 +1,4 @@
-# Web Python 1 - número aleatori
+# Web Python 2 - número aleatori
 
 Ara ampliarem la funcionalitat del nostre programa fent que si un usuari escriu al navegador una adreça especial s'executi una funció que retorna un valor aleatori del 1 al 6.
 
