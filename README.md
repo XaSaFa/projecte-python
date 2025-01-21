@@ -18,3 +18,4 @@ En aquest projecte utilitzarem el llenguatge de programació Python per a crear 
 ## Exemples
 
 - [1 - Hola Món](python1.md)
+- [2 - Números aleatoris](python2.md)
