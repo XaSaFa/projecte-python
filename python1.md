@@ -32,3 +32,7 @@ Així que l'obrim al navegador i obtenim el resultat del nostre programa.
 
 ![image](https://github.com/user-attachments/assets/f5296cd7-adfd-4805-8d95-266c65a6c9c9)
 
+Per finalitzar l'execució hem de tornar al terminal de Pycharm i prémer Control+C.
+
+**Sempre que camviem el programa hem de parar l'execució i tornar a executar Flask per veure el nou programa en funcionament**
+
