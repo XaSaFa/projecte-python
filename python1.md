@@ -23,3 +23,12 @@ flask --app hello_world run
 ```
 
 ![image](https://github.com/user-attachments/assets/b92de0e4-b21f-45e8-b3b8-1b1e3ec99d10)
+
+Com podem veure Flask ens diu que per accedir al nostre programa hem d'utilitzar l'adreça següent:
+
+![image](https://github.com/user-attachments/assets/f667cda2-200b-4ae1-924c-5e110b9ec023)
+
+Així que l'obrim al navegador i obtenim el resultat del nostre programa.
+
+![image](https://github.com/user-attachments/assets/f5296cd7-adfd-4805-8d95-266c65a6c9c9)
+
