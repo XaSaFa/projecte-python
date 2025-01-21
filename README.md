@@ -35,3 +35,21 @@ sudo apt install mariadb-server
 sudo apt-get install libmariadb3 libmariadb-dev
 ```
 
+## Pas 4 - Instal·lació del gestor d'instal·lació de llibreries pip
+
+```
+sudo apt install python3-pip
+```
+
+## Pas - Crear nou projecte a Pycharm
+
+![image](https://github.com/user-attachments/assets/05ce34cb-174c-416a-b21e-29b8393f14f8)
+
+![image](https://github.com/user-attachments/assets/3eaa6171-96bc-4a36-901b-38d8adf2d133)
+
+![image](https://github.com/user-attachments/assets/be44706a-f5df-4727-9040-82992ed8bb1d)
+
+![image](https://github.com/user-attachments/assets/07bc27bf-66db-450e-a5f0-a083006eaba3)
+
+
+
