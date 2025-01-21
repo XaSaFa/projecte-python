@@ -41,6 +41,12 @@ sudo apt-get install libmariadb3 libmariadb-dev
 sudo apt install python3-pip
 ```
 
+## Pas 5.- Instal·lació de llibreria per controlar BBDD MySQL (MariaDB) des de Python
+
+```
+pip3 install mariadb
+```
+
 ## Pas - Crear nou projecte a Pycharm
 
 ![image](https://github.com/user-attachments/assets/05ce34cb-174c-416a-b21e-29b8393f14f8)
