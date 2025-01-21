@@ -33,7 +33,8 @@ sudo apt install python3-pip
 ## Pas 5.- Instal·lació de llibreria per controlar BBDD MySQL (MariaDB) des de Python
 
 ```
-pip3 install mariadb
+pip install mariadb
+pip install Flask
 ```
 
 ## Pas 6.- Crear nou projecte a Pycharm
