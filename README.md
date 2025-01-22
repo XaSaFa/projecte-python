@@ -24,5 +24,5 @@ En aquest projecte utilitzarem el llenguatge de programació Python per a crear 
 ## Recursos
 
 - [Pàgina de Flask](https://flask.palletsprojects.com/en/stable/quickstart/)
-- [Apuns Python Xavi](https://github.com/XaSaFa/IntroduccioProgramacio)
+- [Apunts Python Xavi](https://github.com/XaSaFa/IntroduccioProgramacio)
 - [W3Schools](https://www.w3schools.com/python/)
