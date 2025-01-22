@@ -20,3 +20,9 @@ En aquest projecte utilitzarem el llenguatge de programació Python per a crear 
 - [1 - Hola Món](python1.md)
 - [2 - Números aleatoris](python2.md)
 - [3 - Variables per URL](python3.md)
+
+## Recursos
+
+- [Pàgina de Flask](https://flask.palletsprojects.com/en/stable/quickstart/)
+- [Apuns Python Xavi](https://github.com/XaSaFa/IntroduccioProgramacio)
+- [W3Schools](https://www.w3schools.com/python/)
