@@ -2,7 +2,7 @@
 
 ## Pas 1 - Creació de la MV
 
-Utilitzarem una MV amb 4GB de RAM, 50GB de disc, 4 CPUs i 128MB de memòria gràfica.
+Utilitzarem una MV amb 4GB de RAM, 50GB de disc, 2 CPUs i 128MB de memòria gràfica.
 
 El SO serà Ubuntu 22.04LTS.
 
