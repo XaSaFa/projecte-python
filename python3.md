@@ -21,4 +21,4 @@ def show_name(username):
 1. Crea un programa al qual li passem una variable anomenada temp per url (amb un valor de temperatura en graus Celsius) i mostra per pantalla la temperatura en graus Celsius, Fahrenheit i Kelvin.
 2. Generador de codis PIN: Crea un programa que rep per paràmetre una variable numèrica anomenada longitud i crea un codi numèric de nombres aleatoris de la longitud passada per paràmetre.
 3. Crea un programa que rep per paràmetre una variable anomenada quantitat que es una xifra d'euros i et diu quants bitcoins podries comprar amb aquella xifra.
-4.  
+
