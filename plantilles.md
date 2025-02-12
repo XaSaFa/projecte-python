@@ -108,6 +108,6 @@ Fitxer formulari1.html
 
 ## Ampliació activitats
 
-1. Fes una pàgina web utilitzant Bootstrap 5 que serveixi de plantilla per mostrar el full de personatge de Heroquest anterior.
+1. Fes una pàgina web utilitzant Bootstrap 5 que serveixi de plantilla per mostrar el full de personatge de Heroquest amb tot luxe de detalls.
 2. Crea un programa que rebi la informació per a generar la fitxa de personatge de Heroquest i després mostri la web que acabes de fer en Bootstrap.
-3. Fes una pàgina web utilitzant   
+ 
