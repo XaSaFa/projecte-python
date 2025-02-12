@@ -21,6 +21,7 @@ En aquest projecte utilitzarem el llenguatge de programació Python per a crear 
 - [2 - Números aleatoris](python2.md)
 - [3 - Variables per URL](python3.md)
 - [4 - Formulari simple](python4.md)
+- [5 . Plantilles](plantilles.md)
 
 ## Recursos
 
