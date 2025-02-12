@@ -30,5 +30,17 @@ def formulari():
     return textFinal
 ```
 
+Contingut del fitxer hola.html
+
+```
+
+```
+
 ![image](https://github.com/user-attachments/assets/fe54bd70-04a2-4294-9acd-3bd80014c53e)
+
+# Activitat
+
+Prova el programa anterior i fes que un altre que mostri un formulari per pantalla per rebre de l'usuari els valors de nom i cognom.
+
+El formulari haurà d'estar en un fitxer HTML anomenat formulari1.html.
 
