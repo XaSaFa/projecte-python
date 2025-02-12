@@ -55,6 +55,57 @@ Prova el programa anterior i fes que un altre que mostri un formulari per pantal
 
 El formulari haurà d'estar en un fitxer HTML anomenat formulari1.html.
 
+Fitxer template1.py
+
+```
+from flask import Flask, request
+from jinja2 import Environment, FileSystemLoader
+app = Flask(__name__)
+@app.route('/', methods=['GET', 'POST'])
+def formulari():
+    # L'usuari ha clicat a Enviar
+    if request.method == 'POST':
+        #Carrego la plantilla
+        environment = Environment(loader=FileSystemLoader("templates/"))
+        template = environment.get_template("hola.html")
+
+        # Info conté la informació que paso a la plantilla
+        nom = request.form['nom']
+        cognom = request.form['cognom']
+        info = {"nom":nom,"cognom":cognom}
+        # Paso la info a la plantilla per generar el document final
+        textFinal = template.render(info)
+
+        # Retornem com pàgina web el resultat final
+        return textFinal
+        # Carrego la plantilla
+    environment = Environment(loader=FileSystemLoader("templates/"))
+    template = environment.get_template("formulari1.html")
+    info = {}
+    textFinal = template.render()
+    # Retornem com pàgina web el resultat final
+    return textFinal
+```
+
+Fitxer formulari1.html
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form method="POST">
+        Nom: <input type="text" name="nom" required><br>
+        Cognom: <input type="text" name="cognom" required><br>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
+```
+
 ## Ampliació activitats
 
 1. Fes una pàgina web utilitzant Bootstrap 5 que serveixi de plantilla per mostrar el full de personatge de Heroquest anterior.
