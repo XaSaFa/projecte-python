@@ -33,7 +33,18 @@ def formulari():
 Contingut del fitxer hola.html
 
 ```
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Hola {{ nom }}!</h1>
+    Me n'alegro de veure'l senyor <b>{{ cognom }}.</b>
+    
+</body>
+</html>
 ```
 
 ![image](https://github.com/user-attachments/assets/fe54bd70-04a2-4294-9acd-3bd80014c53e)
@@ -44,3 +55,8 @@ Prova el programa anterior i fes que un altre que mostri un formulari per pantal
 
 El formulari haurà d'estar en un fitxer HTML anomenat formulari1.html.
 
+## Ampliació activitats
+
+1. Fes una pàgina web utilitzant Bootstrap 5 que serveixi de plantilla per mostrar el full de personatge de Heroquest anterior.
+2. Crea un programa que rebi la informació per a generar la fitxa de personatge de Heroquest i després mostri la web que acabes de fer en Bootstrap.
+3. Fes una pàgina web utilitzant   
