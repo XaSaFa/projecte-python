@@ -23,6 +23,10 @@ En aquest projecte utilitzarem el llenguatge de programació Python per a crear 
 - [4 - Formulari simple](python4.md)
 - [5 . Plantilles](plantilles.md)
 
+## Activitats puntuables
+
+- [1 - Formulari monstre Heroquest](activitat_puntuable.md)
+
 ## Recursos
 
 - [Pàgina de Flask](https://flask.palletsprojects.com/en/stable/quickstart/)
