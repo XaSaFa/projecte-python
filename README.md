@@ -25,7 +25,7 @@ En aquest projecte utilitzarem el llenguatge de programació Python per a crear 
 
 ## Activitats puntuables
 
-- [1 - Formulari monstre Heroquest](activitat_puntuable.md)
+- [1 - Formulari monstre Heroquest](activitat_puntable.md)
 
 ## Recursos
 
