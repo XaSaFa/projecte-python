@@ -33,3 +33,8 @@ Aquesta plantilla estarà feta en Bootstrap 5 i tindrà un títol del estil "El 
 Aquí es mostraran els resultats de les tirades de daus ordenades per tipus de daus en text o imatges segons el que ha escollit l'usuari.
 
 Penseu que heu de capturar imatges de cada cara dels daus per al programa.
+
+# Recursos
+
+- [Apunts de Jinja](https://dungeonofbits.com/utilizar-templates-con-python-y-jinja2.html)
+
