@@ -37,4 +37,5 @@ Penseu que heu de capturar imatges de cada cara dels daus per al programa.
 # Recursos
 
 - [Apunts de Jinja](https://dungeonofbits.com/utilizar-templates-con-python-y-jinja2.html)
+- [Fitxers de projecte](dice_generator.zip)
 
